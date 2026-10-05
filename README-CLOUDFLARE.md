@@ -28,8 +28,8 @@ Add these under the Pages project's production environment:
 ### Variables
 
 - `DISCORD_CLIENT_ID` — your Discord application client ID
-- `OWNER_DISCORD_ID` — your personal Discord user ID
-- `DISCORD_REDIRECT_URI` — `https://YOUR-DOMAIN/auth/discord`
+- `OWNER_DISCORD_ID` — `911259480325517383`
+- `DISCORD_REDIRECT_URI` — `https://https://wrxpy.xyz/auth/discord`
 
 ### Secrets
 
